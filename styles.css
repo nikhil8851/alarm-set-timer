@@ -60,7 +60,10 @@
 
 
 }
-
+#timeDisplay{
+    color: white;
+   
+}
 #set_time {
     width: 142px;
     height: 28px;
@@ -147,4 +150,7 @@ text-decoration-skip-ink: none;
 color: #FFFFFF;
 
 
+}
+.timec{
+    display: flex;
 }
